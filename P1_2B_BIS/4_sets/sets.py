@@ -27,4 +27,7 @@ os.system("cls")
 while opc =="si":
     email.append(input("Introduce el email: "))
     
-    opc=input("¿Desea incluir un corrreo mas?").lower()
+    opc=input("¿Desea incluir un corrreo mas?: ").lower()
+
+print(email)
+

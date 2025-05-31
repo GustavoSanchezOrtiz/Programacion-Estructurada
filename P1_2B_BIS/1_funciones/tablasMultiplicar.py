@@ -61,7 +61,7 @@ def tabla_multiplicar(numero):
 #llamada a la funcion
 resultado1, resultado2, resultado3, resultado4, resultado5, resultado6, resultado7, resultado8, resultado9, resultado10=tabla_multiplicar(numero)
 print(f"la tabla de multiplicar del {numero} es: \n{resultado1} \n{resultado2} \n{resultado3} \n{resultado4} \n{resultado5} \n{resultado6} \n{resultado7} \n{resultado8} \n{resultado9} \n{resultado10}")
-
+# esta si es la de arriba no esta es v3
 def tabla_multiplicar2(numero):
     num=numero
     respuesta=""
